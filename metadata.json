@@ -1,0 +1,133 @@
+{
+    "1340020eea3417e91db26f4bd910f627": {
+        "dimension": [
+            "Row ID",
+            "Order ID",
+            "Order Date",
+            "Ship Date",
+            "Ship Mode",
+            "Customer ID",
+            "Customer Name",
+            "Segment",
+            "Country/Region",
+            "City",
+            "State",
+            "Postal Code",
+            "Region",
+            "Product ID",
+            "Category",
+            "Product Name"
+        ],
+        "measurement": [
+            "Sales",
+            "Quantity",
+            "Discount",
+            "Profit",
+            "Sub-Category"
+        ]
+    },
+    "c433471020875c81a71920af5358ef62": {
+        "dimension": [
+            "Row ID",
+            "Order ID",
+            "Order Date",
+            "Ship Date",
+            "Ship Mode",
+            "Customer ID",
+            "Customer Name",
+            "Segment",
+            "Country/Region",
+            "City",
+            "State",
+            "Postal Code",
+            "Region",
+            "Product ID",
+            "Category",
+            "Sub-Category",
+            "Product Name"
+        ],
+        "measurement": [
+            "Sales",
+            "Quantity",
+            "Discount",
+            "Profit"
+        ]
+    },
+    "c24049aa169553abf90c68d423f9dab0": {
+        "dimension": [
+            "Series_reference",
+            "Period",
+            "Type",
+            "Units",
+            "Indicator",
+            "Cause",
+            "Validation",
+            "Population",
+            "Age",
+            "Severity"
+        ],
+        "measurement": [
+            "Data_value",
+            "Lower_CI",
+            "Upper_CI"
+        ]
+    },
+    "metadata.json": {
+        "dimension": [],
+        "measurement": []
+    },
+    "555a173616bf3552b160d7754f349be8": {
+        "dimension": [
+            "theme",
+            "url",
+            "img",
+            "lines",
+            "author"
+        ],
+        "measurement": []
+    },
+    "9f440d771ef60c6dc74852fc355b5416": {
+        "dimension": [
+            "course",
+            "prof"
+        ],
+        "measurement": [
+            "price"
+        ]
+    },
+    "8346aa34b7ab317adcfcbcc2f4f37bcc": {
+        "dimension": [
+            "username",
+            "description"
+        ],
+        "measurement": [
+            "Unnamed: 0",
+            "totalTweet",
+            "tatalReTweet"
+        ]
+    },
+    "c6a9909361e085d758713c72a13f91dc": {
+        "dimension": [
+            "name",
+            "date",
+            "url",
+            "header",
+            "content",
+            "lang",
+            "sentiment"
+        ],
+        "measurement": [
+            "total_word"
+        ]
+    },
+    "595bed90c3e2728f3b95488954cb7f77": {
+        "dimension": [
+            "name",
+            "date",
+            "url"
+        ],
+        "measurement": [
+            "count_keyword"
+        ]
+    }
+}
